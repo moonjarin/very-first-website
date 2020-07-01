@@ -1,0 +1,76 @@
+h1{
+    font-size: 60px;
+}
+h2{
+    text-align: center;
+    padding: 2%;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:0px;
+}
+span{
+    color:peru;
+}
+section{
+    height: 500px;
+    padding-bottom: 5%;
+}
+.half-half{
+    width: 40%;
+    margin-left: 3%;
+    padding:3%;
+    float: left;
+    height: 60%;
+}
+.half-half img{
+    width: 80%;
+}
+
+.button{
+    border-radius: 10px;
+    text-decoration: none;
+    color: cadetblue;
+    background-image: linear-gradient(45deg,aquamarine,rgb(33, 184, 230));
+    padding:3%;
+}
+.top{
+    background-image:url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+.dream{
+    background-image:url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.recwork{
+    width: 30%;
+    float: left;
+    margin-left:3%;
+}
+.recwork img{
+    width: 100%;
+    height: 100%;
+    
+}
+footer{
+    text-align: center;
+}
+.foot{
+    text-align: center;
+    background-image: url("images/footer-bg.png");
+}
+.last{
+    color: seashell;
+    border-radius: 10px;
+    color: cadetblue;
+    background-image: linear-gradient(45deg,aquamarine,rgb(33, 184, 230));
+    padding:3%;
+    width: 30%;
+    height: 10%;
+margin-left: 33%;
+}
